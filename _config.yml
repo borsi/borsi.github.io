@@ -27,4 +27,5 @@ google_analytics: UA-19012272-1
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-swiss
+theme-color: black
