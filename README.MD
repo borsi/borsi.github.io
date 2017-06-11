@@ -1,4 +1,4 @@
-# About this.
+# About this. [![Build Status](https://travis-ci.org/borsi/borsi.github.io.svg?branch=master)](https://travis-ci.org/borsi/borsi.github.io)
 
 *This part is a copy if the site's about page. It looks nicer [over there](http://borsi.hu/about/).*
 
