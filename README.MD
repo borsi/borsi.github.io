@@ -1,6 +1,6 @@
 # About this.
 
-*This part is a copy if the site's about page. It looks nicer over there.*
+*This part is a copy if the site's about page. It looks nicer [over there](http://borsi.hu/about/).*
 
 Hi. It's me, Zoltan - or *borsi* for my friends, hence my username and the url of this blog. 
 Time and again I realize that something is missing from my life.
