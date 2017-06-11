@@ -1,15 +1,14 @@
 ---
 layout: page
+published: true
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi. It's me, Zoltan - or *borsi* for my friends, hence my username and the url of this blog. Time and again I realize that something is missing from my life. And it usually turns out thet the missing thing is writing. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+When you read this I am probably a *product person* working in IT with a team... on a product (or product**s**). So there are quite a lot on my mind concerning **management**, **leadership**, **user experience** and just being a *better person*. On the one hand I'd like to write about these things obviously. Not to tell anyone *how* anything is or to proclaim really *unique* findings but mostly to clear *my* mind and organize the experience I am gathering through the years.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+On the other hand though, I really like telling stories. I may not be good at it, but I do like the process of creating narratives, worlds and characters. So sometimes - especially when I have a glass of wine or beer too many - I create these... artsy-fartsy things.
+
+My hope is that I'll be able to put these things here and also separate them somehow thematically. So you'll be able to read just the things you are interested in. :)

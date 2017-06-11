@@ -27,5 +27,5 @@ google_analytics: UA-19012272-1
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
-theme-color: black
+theme: minima
+repository: borsi/borsi.github.io
