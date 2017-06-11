@@ -28,7 +28,8 @@ I remember reading not long ago the fine book by Ben Horowitz,
 > "I'm gonna try the shit out of these things. This is great. Just wait till I get to the end."
 
 
-Now I don't remember half of it. Now, I'm sure *everyone* has some kind of mechanism of creating notes of every single important thing they learn, but I don't.
+I don't remember half of it. 
+Okay, I'm sure *everyone* has some kind of mechanism of creating notes of every single important thing they learn, but I don't.
 Or coming to think of it, *now* I have. Yay, me!
 
 ## Having fun
