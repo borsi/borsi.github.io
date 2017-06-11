@@ -52,6 +52,6 @@ and these images helped me build cohesion and give a unique character to the who
 
 ![They really tied the post together](http://i.imgur.com/OoLE9Yy.gif)
 
-Anyways. Here, I can do whatever I want.
+Anyways. *Here*, I can do whatever I want.
 
 **Again: yay, me.** ;)
